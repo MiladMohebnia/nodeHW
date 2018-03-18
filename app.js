@@ -14,4 +14,4 @@ app.get( "/", (req, res)=>{
 
 
 
-app.listen( "8080", _=>{ console.log( "server is running!" ) } );
+app.listen( "80", _=>{ console.log( "server is running!" ) } );
